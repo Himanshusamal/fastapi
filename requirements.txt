@@ -1,0 +1,10 @@
+fastapi
+
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+#jwt 
+python-jose
+python-multipart
+#pip3 install -r requirements.txt
